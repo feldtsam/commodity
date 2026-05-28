@@ -1,0 +1,14 @@
+# Environment & secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Generated daily reports
+outputs/
+
+# Logs
+logs/
+
+# macOS
+.DS_Store

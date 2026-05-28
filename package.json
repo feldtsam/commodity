@@ -1,0 +1,22 @@
+{
+  "name": "commodity-translator",
+  "version": "1.0.0",
+  "description": "Daily industrial intelligence — commodity signals translated into human-readable content",
+  "type": "module",
+  "scripts": {
+    "daily": "node src/index.js",
+    "test": "node src/index.js --mock",
+    "setup": "node src/setup.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.40.0",
+    "@notionhq/client": "^5.22.0",
+    "axios": "^1.7.0",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.0",
+    "fs-extra": "^11.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

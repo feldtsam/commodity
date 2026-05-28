@@ -1,0 +1,23 @@
+{
+  "trustedSources": [
+    "reuters.com",
+    "bloomberg.com",
+    "ft.com",
+    "wsj.com",
+    "mining.com",
+    "platts.com",
+    "spglobal.com",
+    "freightwaves.com",
+    "supplychaindive.com",
+    "datacenterdynamics.com",
+    "oilprice.com",
+    "woodmac.com",
+    "fastmarkets.com",
+    "power-technology.com",
+    "datacenterknowledge.com"
+  ],
+  "searchFreshness": "pd",
+  "maxResultsPerQuery": 5,
+  "targetArticles": 50,
+  "searchDelayMs": 200
+}

@@ -1,0 +1,39 @@
+{
+  "voice": {
+    "primary": "Sharp, cinematic, intelligent but readable",
+    "archetype": "Industrial intelligence analyst who sees physical economy signals before the headlines",
+    "comparables": ["Bloomberg Originals", "Margins newsletter", "Works in Progress"],
+    "notLike": ["CNBC ticker commentary", "Reddit finance", "Trading desk recap"],
+    "perspective": "Systems-thinking observer — translate commodity movement into real-world consequence"
+  },
+  "principles": [
+    "Explain what it MEANS, not just what happened",
+    "Connect commodity movement to real operations — factories, kitchens, grids, jobsites",
+    "Find the downstream consequence before others do",
+    "Name the system that is tightening, cooling, or breaking",
+    "Speak to operators, builders, and curious professionals",
+    "The signal matters more than the number"
+  ],
+  "avoid": [
+    "Trading language (long, short, calls, puts, bullish, bearish)",
+    "Finance bro tone",
+    "Generic market summaries",
+    "Overly technical jargon",
+    "Price-only reporting without meaning",
+    "Sensationalism",
+    "Hedging language that kills the narrative"
+  ],
+  "signalTitleExamples": [
+    "Copper Tightens Again",
+    "Grid Pressure Rising",
+    "Steel Momentum Slows",
+    "Freight Routes Under Stress",
+    "The AI Buildout Accelerates",
+    "Cold Chain Under Strain",
+    "The Uranium Comeback",
+    "Lumber Finds the Floor",
+    "Gas Flows Interrupted"
+  ],
+  "signalCount": 6,
+  "socialPlatforms": ["linkedin", "x", "tiktok", "newsletter"]
+}

@@ -1,0 +1,157 @@
+{
+  "commodities": [
+    {
+      "id": "copper",
+      "name": "Copper",
+      "priority": 1,
+      "searchQueries": [
+        "copper supply shortage mining disruption news",
+        "copper demand AI data center infrastructure buildout",
+        "copper price movement supply chain news"
+      ]
+    },
+    {
+      "id": "steel",
+      "name": "Steel",
+      "priority": 1,
+      "searchQueries": [
+        "steel production capacity tariff manufacturing news",
+        "steel demand construction infrastructure slowdown",
+        "steel mills output supply chain disruption"
+      ]
+    },
+    {
+      "id": "aluminum",
+      "name": "Aluminum",
+      "priority": 1,
+      "searchQueries": [
+        "aluminum smelter supply disruption news",
+        "aluminum demand EV aerospace packaging"
+      ]
+    },
+    {
+      "id": "natural_gas",
+      "name": "Natural Gas",
+      "priority": 1,
+      "searchQueries": [
+        "natural gas LNG supply demand disruption news",
+        "natural gas power generation grid demand spike"
+      ]
+    },
+    {
+      "id": "crude_oil",
+      "name": "Crude Oil",
+      "priority": 1,
+      "searchQueries": [
+        "crude oil supply OPEC production disruption news",
+        "oil refinery capacity logistics impact news"
+      ]
+    },
+    {
+      "id": "lithium",
+      "name": "Lithium",
+      "priority": 1,
+      "searchQueries": [
+        "lithium supply battery production disruption news",
+        "lithium demand EV grid storage shortage"
+      ]
+    },
+    {
+      "id": "uranium",
+      "name": "Uranium",
+      "priority": 2,
+      "searchQueries": [
+        "uranium supply nuclear power demand news",
+        "nuclear energy AI data center power demand"
+      ]
+    },
+    {
+      "id": "lumber",
+      "name": "Lumber",
+      "priority": 2,
+      "searchQueries": [
+        "lumber supply housing construction tariff news",
+        "timber production homebuilding impact"
+      ]
+    },
+    {
+      "id": "semiconductors",
+      "name": "Semiconductors",
+      "priority": 1,
+      "searchQueries": [
+        "semiconductor chip supply shortage AI demand news",
+        "chip manufacturing capacity GPU data center"
+      ]
+    },
+    {
+      "id": "refrigerants",
+      "name": "Refrigerants",
+      "priority": 2,
+      "searchQueries": [
+        "refrigerant supply shortage HVAC news",
+        "cooling equipment supply chain disruption"
+      ]
+    }
+  ],
+  "themes": [
+    {
+      "id": "freight_shipping",
+      "name": "Freight & Shipping",
+      "priority": 1,
+      "searchQueries": [
+        "shipping freight index rates port congestion news today",
+        "container shipping supply chain logistics disruption"
+      ]
+    },
+    {
+      "id": "ai_infrastructure",
+      "name": "AI Infrastructure",
+      "priority": 1,
+      "searchQueries": [
+        "AI data center construction power demand buildout news",
+        "hyperscaler infrastructure investment electricity grid"
+      ]
+    },
+    {
+      "id": "energy_grid",
+      "name": "Energy Grid",
+      "priority": 1,
+      "searchQueries": [
+        "electricity grid demand capacity stress news",
+        "power grid infrastructure investment constraint"
+      ]
+    },
+    {
+      "id": "geopolitical",
+      "name": "Geopolitical Disruptions",
+      "priority": 1,
+      "searchQueries": [
+        "geopolitical supply chain trade sanctions commodity disruption news"
+      ]
+    },
+    {
+      "id": "weather",
+      "name": "Weather Disruptions",
+      "priority": 2,
+      "searchQueries": [
+        "extreme weather infrastructure supply chain commodity disruption"
+      ]
+    },
+    {
+      "id": "labor",
+      "name": "Labor & Strikes",
+      "priority": 2,
+      "searchQueries": [
+        "labor strike manufacturing port supply chain disruption news"
+      ]
+    },
+    {
+      "id": "construction",
+      "name": "Construction Activity",
+      "priority": 2,
+      "searchQueries": [
+        "construction activity infrastructure investment spending news"
+      ]
+    }
+  ]
+}
